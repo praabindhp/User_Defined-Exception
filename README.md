@@ -5,10 +5,10 @@ This Is A Java Program Portraying The User Defined Exception That Can Be Raised 
 
 Prompts :
 
-  1. MyException Occurred
-  
-  2. Starting of try block
-  
-  3. This is My error Message
-  
-  4. Catch Block
+    1. MyException Occurred
+
+    2. Starting of try block
+
+    3. This is My error Message
+
+    4. Catch Block
