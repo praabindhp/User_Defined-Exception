@@ -5,7 +5,7 @@ This Is A Java Program Portraying The User Defined Exception That Can Be Raised 
 
 Prompts :
 
-    1. MyException Occurred
+    1. MyException Occurred - User Exception
 
     2. Starting of try block
 
