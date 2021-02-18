@@ -3,7 +3,7 @@ Java Program For User Defined Exception
 
 Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 
-This Is A Java Program Portraying The User Defined Exception That Can Be Raised During The Execution
+This Is A Java Program Portraying The User Defined Exception That Can Be Raised.
 
 Prompts :
 
